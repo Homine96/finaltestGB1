@@ -2,7 +2,7 @@
 ---
 В ходе контрольной работы были выполнены следующие задания :
 
-+ Создан репозиторий на гитхаб https://github.com/Homine96/finaltestGB1;
++ [Создали репозиторий на гитхаб]( https://github.com/Homine96/finaltestGB1)
 
 + [Нарисовали полную блок-схему алгоритма решения задачи](https://github.com/Homine96/finaltestGB1/blob/main/%D0%B1%D0%BB%D0%BE%D0%BA_%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png)
 
